@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Reminder(2)", "F:\Code\Reminder\", "{F239389D-3F81-41FD-BD88-805C8BE10F1D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50035"
+		Debug.AspNetCompiler.PhysicalPath = "F:\Code\Reminder\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50035\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50035"
+		Release.AspNetCompiler.PhysicalPath = "F:\Code\Reminder\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50035\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50035"
+		SlnRelativePath = "F:\Code\Reminder\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F239389D-3F81-41FD-BD88-805C8BE10F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F239389D-3F81-41FD-BD88-805C8BE10F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D1F0DB-00E3-4CE9-9D3A-509EBF414A80}
+	EndGlobalSection
+EndGlobal
